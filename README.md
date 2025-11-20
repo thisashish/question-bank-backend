@@ -13,11 +13,11 @@ A complete Question Bank Management System built with Node.js, Express, TypeScri
 
 ## API Documentation
 
-Live API Documentation: [Render URL]/api-docs
+Live API Documentation: https://question-bank-backend-wxs3.onrender.com/api-docs
 
 ## Deployment
 
-**Live Demo:** https://question-bank-backend.onrender.com
+**Live Demo:** https://question-bank-backend-wxs3.onrender.com
 
 ## Local Development
 
