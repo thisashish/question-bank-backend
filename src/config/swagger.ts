@@ -20,7 +20,7 @@ const options = {
         description: 'Development server'
       },
       {
-        url: 'https://your-production-url.com',
+        url: 'https://question-bank-backend-wxs3.onrender.com',
         description: 'Production server'
       }
     ],
